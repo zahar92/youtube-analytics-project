@@ -1,7 +1,6 @@
 import json
 import os
 from googleapiclient.discovery import build
-from helper.youtube_api_manual import printj
 
 
 class Channel:
